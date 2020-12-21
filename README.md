@@ -2,12 +2,6 @@
 A system for classifying images using SVM (support vector machine) classification algorithm
 
 The project consists of five essential stages: 
-1.	Data Collection 
-2.	Data Cleaning 
-3.	Feature extraction using wavelet transform 
-4.	Training model using SVM 
-5.	Visualization and model analysis 
-
 
 1. The data collection phase innvolves collection of the images. This phase id important for creating a dataset of images for training and testing purposes. 
 2. The data cleaning stage involves cleaning the images by getting rid of the ones which do not have distinguishing facial features. OpenCV library is used to detect face and eyes. OpenCV stands for Open-Source Computer Vision. It is a library comprising functions for computer vision. This library emphasizes on functionality of real-time image processing and implementation of the machine learning algorithms. OpenCv has a statistical machine learning library which supports facial and gesture recognition, gesture classification, mobile robotics, object identification and motion sensing. 
